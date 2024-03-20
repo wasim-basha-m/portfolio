@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #051622; */
+    /* background-color: #0F172A; */
+    background-color: #11192e;
+    color: white;
+}
+
+.dark-mode {
+    background-color: white;
+    color: black;
+  }
